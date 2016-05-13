@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1463097586 source:c:\users\juan\desktop\tp 2 - grafico\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"funciones.h"
+
+1463098992 c:\users\juan\desktop\tp 2 - grafico\tp_2_cascara\funciones.h
+
+1463099032 source:c:\users\juan\desktop\tp 2 - grafico\tp_2_cascara\funciones.c
+	"funciones.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<windows.h>
+	<conio.h>
+
