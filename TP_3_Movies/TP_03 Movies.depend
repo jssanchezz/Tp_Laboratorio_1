@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1464319050 source:c:\users\juan\desktop\tp_03 movies\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"funciones.h"
+
+1464319051 c:\users\juan\desktop\tp_03 movies\funciones.h
+
+1464319757 source:c:\users\juan\desktop\tp_03 movies\funciones.c
+	"funciones.h"
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+
